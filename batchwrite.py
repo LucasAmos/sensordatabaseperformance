@@ -1,17 +1,9 @@
-import threading
-import Queue
-import json
+import threading, Queue, json, datetime, sys, time, os, pymongo
 from pymongo import MongoClient, InsertOne
-import datetime
 from pymongo.errors import BulkWriteError
-import sys
-import time
-import os
-import pymongo
+
 
 # method to calculate the operation duration to the nearest whole second
-
-
 def duration(starttime):
     endtime = datetime.datetime.now()
     duration = endtime - starttime
