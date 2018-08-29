@@ -1,7 +1,7 @@
 # sensordatabaseperformance
 
 <p>
-NoSQL database performance incurs a significant dropoff when hosted in a virtualised environment, this code was deployed in a docker container to identify whether any similar performance overheard occurs in containerised environments.
+NoSQL databases incur a significant performance penalty when hosted in virtualised environments, this code was deployed in a docker container to identify whether any similar performance overheard occur in containerised environments.
 </p>
 
 <p>
