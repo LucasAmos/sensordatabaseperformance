@@ -5,5 +5,5 @@ NoSQL databases incur a significant performance penalty when hosted in virtualis
 </p>
 
 <p>
-  This software implements threads to simulate multiple client writes
+  This software implements threads to simulate multiple client operations
   </p>
