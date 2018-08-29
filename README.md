@@ -9,6 +9,6 @@ NoSQL databases incur a significant performance penalty when hosted in virtualis
   </p>
 
 <h5>
-Usage: &ltfilename&rt <threads> <batchsize>"
+Usage: &ltfilename&gt <threads> <batchsize>"
   
   </h5>
