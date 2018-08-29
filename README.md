@@ -7,3 +7,8 @@ NoSQL databases incur a significant performance penalty when hosted in virtualis
 <p>
   This software implements threads to simulate multiple client operations
   </p>
+
+<h5>
+usage: <filename> <threads> <batchsize>
+  
+  </h5>
